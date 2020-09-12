@@ -9,8 +9,26 @@
 .card-img-top {
     width: 50%;
     
+    
 }
 
-.list-group-item {
-    width: 50%;
+.col {
+    background-color: blueviolet;
+}
+
+.text-wrap {
+    float: left;
+    margin: 10px;
+}
+
+.main-container {
+    width: 70vw;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.card-header {
+    color: blue;
+    border-bottom: 1px solid blue;
+    /* shortcut for border */
 }
