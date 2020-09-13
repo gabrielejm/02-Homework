@@ -12,9 +12,6 @@
     
 }
 
-.col {
-    background-color: blueviolet;
-}
 
 .text-wrap {
     float: left;
@@ -32,3 +29,8 @@
     border-bottom: 1px solid blue;
     /* shortcut for border */
 }
+
+.bg {
+    background-image: url("https://i.ytimg.com/vi/-MKapbz0GIo/maxresdefault.jpg");
+}
+
