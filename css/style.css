@@ -42,3 +42,7 @@
 .list-group-item {
     background-color: #212529;
 }
+
+.card-text {
+    color: blue;
+}
