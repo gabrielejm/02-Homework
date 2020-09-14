@@ -26,7 +26,7 @@
 
 .card-header {
     color: blue;
-    background-color: #343a40;
+    background-color: #282828;
     border-bottom: 1px solid blue;
     /* shortcut for border */
 }
@@ -36,11 +36,11 @@
 }
 
 .card-body {
-    background-color: #343a40;
+    background-color: #282828;
 }
 
 .list-group-item {
-    background-color: #343a40;
+    background-color: #282828;
 }
 
 .card-text {
@@ -69,10 +69,14 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #343a40;
+    background-color: #282828;
     color: white;
     text-align: center;
     border: 1px solid white;
+}
+
+.bg-dark {
+    background-color: #282828!important;
 }
 
   
