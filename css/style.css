@@ -46,3 +46,8 @@
 .card-text {
     color: blue;
 }
+
+.img-size {
+    max-width: 100%;
+    max-height: 100%;
+}
