@@ -6,6 +6,10 @@
     color: white!important;
 }
 
+.navbar-expand-lg {
+    border: 1px solid white!important;
+}
+
 .card-img-top {
     width: 50%;
     
