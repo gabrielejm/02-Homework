@@ -1,4 +1,6 @@
 # Responsive Portfolio (Homework 2)
 Responsive Portfolio
 
-In this assignment, I'm creating a responsive portfolio website using bootstrap and consisting of 3 pages. This is the first website I have ever created!
+In this assignment, I'm creating a responsive portfolio website using bootstrap grid and consisting of 3 pages. This is the first website I have ever created!
+
+Link to deployed website: https://gabrielejm.github.io/Responsive-Portfolio/
