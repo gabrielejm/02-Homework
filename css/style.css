@@ -1,5 +1,9 @@
+main {
+    height: calc(100vh - 58px);
+}
+
 .nav-link:active,  .nav-link:focus, .nav-link:hover {
-    color: blue!important;
+    color:#238693!important;
 }
 
 .nav-link {
@@ -60,11 +64,11 @@
 }
 
 .link-style:visited {
-    color: purple;
+    color: red;
   }
 
 .link-style:hover {
-    color: blue;
+    color: #238693;
 }
 
 .sticky-footer {
@@ -98,6 +102,11 @@ img {
 
 .m-b-10 {
     margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #238693!important;
+    border-color: white!important;
 }
     
 
